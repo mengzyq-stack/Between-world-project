@@ -152,7 +152,7 @@ function draw() {
 function keyPressed() {
   // 空格键：跳转到第二个网站
   if (keyCode === 32) {
-    window.location.href ="https://mengzyq-stack.github.io/Between-world-site2/";
+    window.location.href ="https://editor.p5js.org/mengzyq/full/sSjJSVuju";
     return;
   }
 
